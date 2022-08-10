@@ -1,0 +1,29 @@
+Git 
+
+How to delete a git branch
+
+Git branch create
+			
+		syntax
+				git branch <branch_name>
+
+How to go inside a git branch ?
+		
+		syntax
+				git checkout <branch_name>
+
+git branch delete
+
+
+There are 5 git commands to upload on github
+
+1. git init
+2. git remote add origin <repo_link>
+3. git add . (stagging area)
+4. git commit -m "message"
+5. git push origin <branch_name>
+
+
+-D = Forcefully
+
+git branch -D 
